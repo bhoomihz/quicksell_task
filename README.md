@@ -1,4 +1,5 @@
-# Frontend Assignment by Quicksell
+# Frontend Assignment by Quicksell 
+checkout here: https://bhoomihz.github.io/quicksell_task/
 
 <img src = "./assests/todo.png" />
 
